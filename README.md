@@ -1,4 +1,4 @@
-### Ola eu osu o Gilwerson 🖐️
+### Olá eu sou o Gilwerson 🖐️
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilwerson-landim-9148b2260)
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 
@@ -18,4 +18,6 @@
     <img alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div><br/>
  Estou em busca de construir uma carreira, e mudar a vida das pessoas atraves da progamação
+
+
  
